@@ -1,0 +1,5 @@
+# variables will be created by the assignments below
+i = 1
+t = 0
+n = i + t
+print(n)
